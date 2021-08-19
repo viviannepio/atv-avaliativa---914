@@ -1,3 +1,4 @@
 # Calculadora API (GQSO IFAL)
 (Vivianne Costa - 914)
-Esse repositório implementa uma versão de calculadora API utilizando a linguagem de progremação Go. Caso queira ver a implementação em java, favor ir para o repositório da turma 914. 
+
+Esse repositório implementa uma  versão de calcuçadora API utilizando uma linguagem de programa go. Caso queira ver a implementação java, favor ir para repositório da turma 914.
