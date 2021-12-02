@@ -5,11 +5,5 @@ public class TesteCalculadora {
         int valory = 5;
         double valorTotal = x.somar(valorx, valory);
         assertEquals(valorTotal, 10);
-       {
-            System.out.println("valor correto!");
-        }
-        else{
-            System.out.println("valor errado!");
-        }
     }
 }
