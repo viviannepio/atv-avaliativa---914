@@ -4,7 +4,8 @@ public class TesteCalculadora {
         int valorx = 5;
         int valory = 5;
         double valorTotal = x.somar(valorx, valory);
-        if(valorTotal == 10){
+        assertEquals(valorTotal, 10);
+       {
             System.out.println("valor correto!");
         }
         else{
