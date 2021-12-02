@@ -1,9 +1,0 @@
-public class TesteCalculadora {
-    public static void main(String[] a){
-        Calculadora x = new Calculadora();
-        int valorx = 5;
-        int valory = 5;
-        double valorTotal = x.somar(valorx, valory);
-        assertEquals(valorTotal, 10);
-    }
-}
